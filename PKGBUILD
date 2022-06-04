@@ -17,7 +17,7 @@ optdepends=('yt-dlp: Youtube source for built-in UnblockNeteaseMusic')
 source=("git+https://github.com/kuohuanhuan-forkonly/YesPlayMusicOSD-AUR" "yesplaymusic.desktop" "yesplaymusic")
 sha256sums=(
             'SKIP'
-            '56fb010914c3baad7bde6ccac03d9e92f705652c6f0098547cafbf4fcc613630'
+            'SKIP'
             'dc7e893cbea98f0f20b7ffdf18c8462c45069618421ea2ebd40ee34051f68e66'
            )
 _electron=electron13
