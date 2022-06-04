@@ -1,6 +1,5 @@
 # Maintainer: KuoHuanHuan <hi@nekohuan.cyou>
 # Maintainer: Grassblock <hi@imgb.space>
-# Maintainer: qier222 <qier222@outlook.com>
 
 pkgbase=yesplaymusicosd-git
 pkgname=(yesplaymusicosd-git yesplaymusicosd-electron-git)
@@ -8,7 +7,7 @@ pkgver=0.4.5.r22.g7a9fd28
 pkgrel=1
 pkgdesc="高颜值的第三方网易云播放器，支持 Windows / macOS / Linux 支持桌面歌词！"
 arch=("x86_64" "aarch64")
-url="https://music.qier222.com"
+url="https://github.com/shih-liang/YesPlayMusicOSD"
 license=("MIT")
 provides=("yesplaymusic")
 conflicts=("yesplaymusic" "yesplaymusic-git")
