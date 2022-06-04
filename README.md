@@ -11,3 +11,9 @@ git clone https://github.com/BlockG-ws/YesPlayMusicOSD-aur
 ```
 
 在repo目录当中运行 `makepkg` 并安装所需依赖后即可安装。
+
+以标记为 gdda77ac 的 commit 打包 为例，安装命令为
+
+```sh
+sudo pacman -U yesplaymusicosd-git-0.4.5.r28.gdda77ac-1-x86_64.pkg.tar.zst
+```
