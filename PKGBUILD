@@ -1,9 +1,6 @@
-# YesPlayMusicOSD AUR package.
-# ----------------------------------------------------------
-# Maintainer: qier22 <qier222@outlook.com>
-# AUR package maintainer: Grassblock <hi@imgb.space>
-# With bug fixes by: KuoHuanHuan <hi@nekohuan.cyou>
-# ----------------------------------------------------------
+# Maintainer: KuoHuanHuan <hi@nekohuan.cyou>
+# Maintainer: Grassblock <hi@imgb.space>
+# Maintainer: qier222 <qier222@outlook.com>
 
 pkgbase=yesplaymusicosd-git
 pkgname=(yesplaymusicosd-git yesplaymusicosd-electron-git)
@@ -90,5 +87,3 @@ package_yesplaymusicosd-electron-git() {
         install -Dm644 build/icons/${res}.png "${pkgdir}/usr/share/icons/hicolor/${res}/apps/yesplaymusic.png"
     done
 }
-# ARCH IS THE BEST!!!!!!!!!!!!!!
-
