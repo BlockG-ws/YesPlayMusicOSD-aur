@@ -4,6 +4,12 @@ YesPlayMusic 是一个高颜值的网易云音乐客户端，你可以在 [qier2
 
 此 repo 基于其 fork YesPlayMusicOSD 制作，加回了桌面歌词的特性。
 
+# 发 AUR 了！
+现在你可以通过任意AUR Helper (eg: yay) 来安装，比如使用 yay：
+```sh
+yay -S yesplaymusicosd-git
+```
+
 # 使用
 clone 此 repo
 ```sh
