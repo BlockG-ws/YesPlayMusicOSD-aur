@@ -20,7 +20,7 @@ yay -S yesplaymusicosd-git
 
 clone 此 repo
 ```sh
-git clone https://github.com/BlockG-ws/YesPlayMusicOSD-aur
+git clone https://github.com/BlockG-ws/YesPlayMusicOSD-aur.git
 ```
 
 在 repo 目录当中（`cd ./YesPlayMusicOSD-aur`）运行 `makepkg` 并安装所需依赖后即可安装。
